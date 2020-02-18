@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lunares</string>
+    <string name="sending">Sending request…</string>
+    <string name="received">Request received</string>
+    <string name="start">Please take a picture</string>
+    <string name="take_a_picture">TAKE A PICTURE</string>
+    <string name="delete">delete</string>
+</resources>
