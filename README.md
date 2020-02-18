@@ -1,0 +1,1 @@
+# sinantica_mobile_app
